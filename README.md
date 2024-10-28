@@ -7,13 +7,16 @@ This internship focuses on honing data analytics skills through real-world tasks
 
 ### Task 1: Weather Data Analysis
 - **Objective**: Extract valuable insights from weather data.
-- **Skills**: Data cleaning, visualization, Python programming.
+- **Skills**: Data cleaning, Data analysis,Data visualization, Python programming.
 
 ### Task 2: Uber Data Analysis
 - **Objective**: Analyze Uber trip data for trends and patterns.
-- **Skills**: Data cleaning, visualization, Python programming.
+- **Skills**: Data cleaning, Data analysis, Data visualization, Python programming.
 
 ### Task 3: Inventory Analysis Case Study
 - **Objective**: Perform a comprehensive analysis of inventory data.
-- **Skills**: Data cleaning, visualization, Python programming.
+- **Skills**: Data cleaning, Data analysis, Data visualization, Python programming.
 
+---
+
+Excited to dive into the data and uncover actionable insights!
