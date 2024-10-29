@@ -20,3 +20,5 @@ This internship focuses on honing data analytics skills through real-world tasks
 ---
 
 Excited to dive into the data and uncover actionable insights!
+
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/5a5cf6de-5d37-45b9-922a-79604b67b532">
